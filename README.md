@@ -13,7 +13,7 @@
  
 ![Prosper github stats](https://github-readme-stats.vercel.app/api?username=ProsperChihimba&count_private=true&show_icons=true)
 
-[![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ProsperChihimba&show_icons=true&theme=tokyonight)](https://github.com/ProsperChihimba)
+[![August's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ProsperChihimba&show_icons=true&count_private=false)](https://github.com/ProsperChihimba)
 
 <!--
 **ProsperChihimba/ProsperChihimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
