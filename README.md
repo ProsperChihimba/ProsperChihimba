@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python & Javascript
-- 🔭 I’m currently working on ![ShoketHQ](https://avatars.githubusercontent.com/u/96976736?s=400&u=3fcc4e7e83e9ea6d79f03d3a9bca5c591a5f62ad&v=4)(https://github.com/ShoketHQ)
+- 🔭 I’m currently working on ![ShoketHQ](https://shoket.co/)
 
 ![Prosper github stats](https://github-readme-stats.vercel.app/api?username=ProsperChihimba&count_private=true&show_icons=true)
 
