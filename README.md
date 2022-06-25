@@ -7,7 +7,7 @@
             <a href="https://github.com/ShoketHQ">Shoket (Payment API)</a>
         </li>
         <li>
-            <a href="https://tuma.shoket.co/">Tuma (For sendind and receiving money with cryptocurrency)</a>
+            <a href="https://tuma.shoket.co/">Tuma (For sending and receiving money with cryptocurrency)</a>
         </li>
     </ul>
 
