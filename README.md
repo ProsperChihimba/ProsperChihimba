@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python & Javascript
-- 🔭 I’m currently working on 
-    - ![Shoket](https://github.com/ShoketHQ) and ![Tuma](https://tuma.shoket.co/)
-
-![Prosper github stats](https://github-readme-stats.vercel.app/api?username=ProsperChihimba&count_private=true&show_icons=true)
+- 🔭 I’m currently working on:
+    <ul>
+        <li>
+            <a href="https://github.com/ShoketHQ">Shoket (Payment API)</a> |
+            <a href="https://tuma.shoket.co/">Tuma (For sendind and receiving money with cryptocurrency)</a>
+        </li>
+    </ul>
 
 <!--
 **ProsperChihimba/ProsperChihimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
