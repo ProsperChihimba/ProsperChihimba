@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on:
     <ul>
         <li>
-            <a href="https://github.com/ShoketHQ">Shoket (Payment API)</a> |
+            <a href="https://github.com/ShoketHQ">Shoket (Payment API)</a>
+        </li>
+        <li>
             <a href="https://tuma.shoket.co/">Tuma (For sendind and receiving money with cryptocurrency)</a>
         </li>
     </ul>
