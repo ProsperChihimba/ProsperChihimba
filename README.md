@@ -10,6 +10,8 @@
             <a href="https://tuma.shoket.co/">Tuma (For sending and receiving money with cryptocurrency)</a>
         </li>
     </ul>
+ 
+![Prosper github stats](https://github-readme-stats.vercel.app/api?username=ProsperChihimba&count_private=true&show_icons=true)
 
 <!--
 **ProsperChihimba/ProsperChihimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
