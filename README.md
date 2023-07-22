@@ -1,17 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python & Javascript
-- 🔭 I’m currently working on:
-    <ul>
-        <li>
-            <a href="https://github.com/ShoketHQ">Shoket (Payment API)</a>
-        </li>
-        <li>
-            <a href="https://tuma.shoket.co/">Tuma (For sending and receiving money with cryptocurrency)</a>
-        </li>
-    </ul>
+- 🌱 I’m currently learning Javascript & Dart
  
-![Prosper github stats](https://github-readme-stats.vercel.app/api?username=ProsperChihimba&count_private=true&show_icons=true)
 
 <!-- ![profile](https://komarev.com/ghpvc/?username=ProsperChihimba) -->
 
